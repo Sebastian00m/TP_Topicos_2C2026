@@ -6,6 +6,12 @@
 *.ko
 *.obj
 *.elf
+bin/
+obj/
+
+# Archivos de configuración de Code::Blocks
+*.layout
+*.depend
 
 # Linker output
 *.ilk
